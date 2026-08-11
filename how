@@ -1,0 +1,29 @@
+[33mcommit af4307cdb9ad8d2b5518b91f170c512aeaeffed4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/cicd-pipeline[m[33m, [m[1;31morigin/feature/cicd-pipeline[m[33m)[m
+Author: Kuldeep Pulaiya <kuldeeppulaiya@gmail.com>
+Date:   Tue Aug 11 18:04:25 2026 +0530
+
+    upadte terraform ci pipeline
+
+[33mcommit c593306e6564622152bf94c375f6798fcfdfab30[m
+Author: Kuldeep Pulaiya <kuldeeppulaiya@gmail.com>
+Date:   Tue Aug 11 17:56:49 2026 +0530
+
+    Add Terraform CI pipeline
+
+[33mcommit 3388e00c551fd0a7c4f8904f75048f3f7b5fb6ca[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Kuldeep Pulaiya <kuldeeppulaiya@gmail.com>
+Date:   Tue Aug 11 10:24:59 2026 +0530
+
+    Add child- parent module
+
+[33mcommit ca932747139fc272b999c145174e0b34201c96f7[m
+Author: kuldeeppulaiya <kuldeeppulaiya@gmail.com>
+Date:   Mon Aug 10 18:50:03 2026 +0530
+
+    Create README.md
+
+[33mcommit c37b6f471b27ec1a98f61d9d55b5e6a7eb398c07[m
+Author: kuldeeppulaiya <kuldeeppulaiya@gmail.com>
+Date:   Mon Aug 10 18:48:37 2026 +0530
+
+    Initial commit

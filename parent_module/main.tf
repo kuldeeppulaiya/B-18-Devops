@@ -20,16 +20,16 @@ module "snets" {
   snets      = var.snets
 }
 
-module "pips"{
-  
+module "pips" {
+
   depends_on = [module.rg]
-source = "../child_module/azure_public_ip"
-pips  = var.pips
+  source     = "../child_module/azure_public_ip"
+  pips       = var.pips
 }
 
 module "vms" {
-  
-  depends_on = [ module.rg ]
-  source = "../child_module/azure_vm_nic"
-  vms = var.vms
+
+  depends_on = [module.rg]
+  source     = "../child_module/azure_vm_nic"
+  vms        = var.vms
 }
