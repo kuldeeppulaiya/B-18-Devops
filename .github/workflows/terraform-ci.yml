@@ -31,3 +31,7 @@ jobs:
       - name: Terraform Validate
         working-directory: ./parent_module
         run: terraform validate
+
+      - name: Terraform Plan
+        working-directory: ./parent_module
+        run: terraform plan
